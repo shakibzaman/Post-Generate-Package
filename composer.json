@@ -15,5 +15,12 @@
         "psr-4": {
             "Shakib\\Post\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "ShakibZaman\\Post\\PostServiceProvider"
+            ]
+        }
     }
 }
