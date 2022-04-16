@@ -1,9 +1,9 @@
 <?php
 
-namespace Shakib\Post\database\seeds;
+namespace ShakibZaman\Post\database\seeds;
 use Illuminate\Support\Str;
 use Illuminate\Database\Seeder;
-use Shakib\Post\Model\Post;
+use ShakibZaman\Post\Model\Post;
 
 class PostSeeder extends Seeder
 {

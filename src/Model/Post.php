@@ -1,6 +1,6 @@
 <?php
 
-namespace Shakib\Post\Model;
+namespace ShakibZaman\Post\Model;
 
 use Illuminate\Database\Eloquent\Model;
 
