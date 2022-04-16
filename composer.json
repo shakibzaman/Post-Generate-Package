@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Shakib\\Post": "src/"
+            "Shakib\\Post\\": "src/"
         }
     }
 }
